@@ -1,0 +1,8 @@
+20230130-04:28:26: Session FIX.4.4:CLIENTFIX->EXEC schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230130-04:28:26: Created session: FIX.4.4:CLIENTFIX->EXEC
+20230130-04:58:19: Session FIX.4.4:CLIENTFIX->EXEC schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230130-04:58:19: Created session: FIX.4.4:CLIENTFIX->EXEC
+20230130-04:58:49: Accepting session FIX.4.4:CLIENTFIX->EXEC from /127.0.0.1:54309
+20230130-04:58:49: Acceptor heartbeat set to 5 seconds
+20230130-04:58:49: Received logon
+20230130-04:58:49: Responding to Logon request

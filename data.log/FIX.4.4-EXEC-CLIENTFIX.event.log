@@ -1,0 +1,6 @@
+20230130-04:58:48: Session FIX.4.4:EXEC->CLIENTFIX schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230130-04:58:48: Created session: FIX.4.4:EXEC->CLIENTFIX
+20230130-04:58:48: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230130-04:58:48: MINA session created: local=/127.0.0.1:54309, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:3000
+20230130-04:58:49: Initiated logon request
+20230130-04:58:49: Received logon

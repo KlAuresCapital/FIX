@@ -1,0 +1,7 @@
+20230130-09:19:33: Session FIX.4.4:server->client schedule is daily, 22:01:00-UTC - 21:59:00-UTC (daily, 00:01:00-EET - 23:59:00-EET)
+20230130-09:19:33: Created session: FIX.4.4:server->client
+20230130-09:20:07: Accepting session FIX.4.4:server->client from /127.0.0.1:50750
+20230130-09:20:07: Acceptor heartbeat set to 30 seconds
+20230130-09:20:07: Refreshing message/state store on Logon
+20230130-09:20:07: Received logon
+20230130-09:20:07: Responding to Logon request

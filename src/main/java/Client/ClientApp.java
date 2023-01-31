@@ -60,6 +60,8 @@ public class ClientApp implements Application {
         System.out.println(message);
     }
 
+
+
     public static void main(String[] args) throws ConfigError, FileNotFoundException, InterruptedException, SessionNotFound {
         SessionSettings settings = new SessionSettings("src/clientTest.cfg");
 

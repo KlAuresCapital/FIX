@@ -5,3 +5,17 @@
 20230130-09:20:07: Refreshing message/state store on Logon
 20230130-09:20:07: Received logon
 20230130-09:20:07: Responding to Logon request
+20230131-06:52:13: Session FIX.4.4:server->client schedule is daily, 22:01:00-UTC - 21:59:00-UTC (daily, 00:01:00-EET - 23:59:00-EET)
+20230131-06:52:13: Session state is not current; resetting FIX.4.4:server->client
+20230131-06:52:13: Created session: FIX.4.4:server->client
+20230131-06:52:22: Accepting session FIX.4.4:server->client from /127.0.0.1:54546
+20230131-06:52:22: Acceptor heartbeat set to 30 seconds
+20230131-06:52:22: Refreshing message/state store on Logon
+20230131-06:52:22: Received logon
+20230131-06:52:22: Responding to Logon request
+20230131-06:52:30: Disconnecting: Socket exception (/127.0.0.1:54546): java.net.SocketException: Connection reset
+20230131-06:53:06: Accepting session FIX.4.4:server->client from /127.0.0.1:54577
+20230131-06:53:06: Acceptor heartbeat set to 30 seconds
+20230131-06:53:06: Refreshing message/state store on Logon
+20230131-06:53:06: Received logon
+20230131-06:53:06: Responding to Logon request

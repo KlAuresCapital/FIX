@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 
 public class Client {
     public static void main(String[] args) throws FileNotFoundException, ConfigError, InterruptedException {
-        String fileName = "src/client.cfg";
+        String fileName = "src/clientTest.cfg";
         ClientApp application = new ClientApp();
         SessionSettings settings = new SessionSettings(new FileInputStream(fileName));
         MessageStoreFactory storeFactory = new FileStoreFactory(settings);

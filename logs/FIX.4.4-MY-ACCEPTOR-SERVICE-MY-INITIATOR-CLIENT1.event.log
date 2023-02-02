@@ -1,0 +1,13 @@
+20230202-05:16:39: Session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20230202-05:16:39: Created session: FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1
+20230202-05:16:47: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:49205
+20230202-05:16:47: Acceptor heartbeat set to 30 seconds
+20230202-05:16:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20230202-05:16:47: Received logon
+20230202-05:16:47: Responding to Logon request
+20230202-05:17:00: Disconnecting: Encountered END_OF_STREAM
+20230202-05:17:01: Accepting session FIX.4.4:MY-ACCEPTOR-SERVICE->MY-INITIATOR-CLIENT1 from /127.0.0.1:49212
+20230202-05:17:01: Acceptor heartbeat set to 5 seconds
+20230202-05:17:01: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20230202-05:17:01: Received logon
+20230202-05:17:01: Responding to Logon request

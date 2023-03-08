@@ -1,0 +1,27 @@
+20230306-08:59:57: Session FIX.4.4:client->server schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230306-08:59:57: Session state is not current; resetting FIX.4.4:client->server
+20230306-08:59:57: Created session: FIX.4.4:client->server
+20230306-08:59:57: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230306-08:59:57: MINA session created: local=/127.0.0.1:63301, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:3000
+20230306-08:59:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20230306-08:59:58: Received logon
+20230306-09:00:56: Session FIX.4.4:client->server schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230306-09:00:56: Created session: FIX.4.4:client->server
+20230306-09:00:56: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230306-09:01:39: Session FIX.4.4:client->server schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230306-09:01:39: Created session: FIX.4.4:client->server
+20230306-09:01:39: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230306-09:01:39: MINA session created: local=/127.0.0.1:63362, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:3000
+20230306-09:01:40: Initiated logon request
+20230306-09:01:40: Received logon
+20230306-09:01:40: Received ResendRequest FROM: 2 TO: infinity
+20230306-09:01:40: Resending message: 2
+20230306-09:01:40: Sent SequenceReset TO: 4
+20230307-03:17:11: Session FIX.4.4:client->server schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230307-03:17:11: Created session: FIX.4.4:client->server
+20230307-03:17:11: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230307-04:27:23: Session FIX.4.4:client->server schedule is daily, 00:00:00-UTC - 12:00:00-UTC
+20230307-04:27:23: Created session: FIX.4.4:client->server
+20230307-04:27:23: Configured socket addresses for session: [localhost/127.0.0.1:3000]
+20230307-04:27:23: MINA session created: local=/127.0.0.1:49681, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:3000
+20230307-04:27:23: Disconnecting: Encountered END_OF_STREAM

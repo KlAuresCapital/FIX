@@ -11,7 +11,7 @@ public class Server {
         SocketAcceptor socketAcceptor = null;
         try {
             SessionSettings executorSettings = new SessionSettings(
-                    "src/messageAcceptorTest.cfg");
+                    "src/serverExample.cfg");
             Application application = new ServerApp();
             FileStoreFactory fileStoreFactory = new FileStoreFactory(
                     executorSettings);

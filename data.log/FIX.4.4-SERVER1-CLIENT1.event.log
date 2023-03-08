@@ -1,0 +1,126 @@
+20230306-10:11:07: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-10:11:07: Created session: FIX.4.4:SERVER1->CLIENT1
+20230306-10:54:12: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-10:54:12: Created session: FIX.4.4:SERVER1->CLIENT1
+20230306-10:55:59: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-10:55:59: Created session: FIX.4.4:SERVER1->CLIENT1
+20230306-11:04:22: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-11:04:22: Created session: FIX.4.4:SERVER1->CLIENT1
+20230306-11:10:04: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-11:10:04: Created session: FIX.4.4:SERVER1->CLIENT1
+20230306-11:19:39: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230306-11:19:39: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-03:09:56: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-03:09:56: Session state is not current; resetting FIX.4.4:SERVER1->CLIENT1
+20230307-03:09:56: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-03:12:31: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-03:12:31: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-03:27:08: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-03:27:08: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:21:31: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:21:31: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:23:18: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:23:18: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:25:18: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:25:18: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:26:13: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:26:13: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:35:13: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:35:13: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:36:44: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:57510
+20230307-04:36:44: Acceptor heartbeat set to 30 seconds
+20230307-04:36:44: Refreshing message/state store on Logon
+20230307-04:36:44: Received logon
+20230307-04:36:44: Responding to Logon request
+20230307-04:36:44: MsgSeqNum too high, expecting 1 but received 14: 8=FIX.4.49=7035=A34=1449=CLIENT152=20230307-04:36:44.29956=SERVER198=0108=3010=051
+20230307-04:36:44: Enqueued at pos 14: 8=FIX.4.49=7035=A34=1449=CLIENT152=20230307-04:36:44.29956=SERVER198=0108=3010=051
+20230307-04:36:44: Sent ResendRequest FROM: 1 TO: infinity
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=143=Y49=CLIENT152=20230307-04:36:44.33256=SERVER1122=20230307-03:16:25.81810=223
+20230307-04:36:44: Reject sent for message 1: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=243=Y49=CLIENT152=20230307-04:36:44.33456=SERVER1122=20230307-03:19:41.19010=220
+20230307-04:36:44: Reject sent for message 2: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=343=Y49=CLIENT152=20230307-04:36:44.33456=SERVER1122=20230307-03:20:43.68510=224
+20230307-04:36:44: Reject sent for message 3: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=443=Y49=CLIENT152=20230307-04:36:44.33656=SERVER1122=20230307-03:21:48.91810=232
+20230307-04:36:44: Reject sent for message 4: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=543=Y49=CLIENT152=20230307-04:36:44.33656=SERVER1122=20230307-03:22:42.39110=223
+20230307-04:36:44: Reject sent for message 5: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=643=Y49=CLIENT152=20230307-04:36:44.33756=SERVER1122=20230307-03:27:15.08410=229
+20230307-04:36:44: Reject sent for message 6: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=743=Y49=CLIENT152=20230307-04:36:44.33856=SERVER1122=20230307-04:21:21.94010=224
+20230307-04:36:44: Reject sent for message 7: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=843=Y49=CLIENT152=20230307-04:36:44.33956=SERVER1122=20230307-04:21:39.08210=232
+20230307-04:36:44: Reject sent for message 8: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9135=TEST34=943=Y49=CLIENT152=20230307-04:36:44.34056=SERVER1122=20230307-04:23:24.66110=224
+20230307-04:36:44: Reject sent for message 9: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1043=Y49=CLIENT152=20230307-04:36:44.34156=SERVER1122=20230307-04:25:26.69710=023
+20230307-04:36:44: Reject sent for message 10: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1143=Y49=CLIENT152=20230307-04:36:44.34256=SERVER1122=20230307-04:26:19.98510=028
+20230307-04:36:44: Reject sent for message 11: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1243=Y49=CLIENT152=20230307-04:36:44.34356=SERVER1122=20230307-04:35:17.60310=015
+20230307-04:36:44: Reject sent for message 12: Invalid MsgType, field=35
+20230307-04:36:44: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1343=Y49=CLIENT152=20230307-04:36:44.34456=SERVER1122=20230307-04:36:43.28510=023
+20230307-04:36:44: Reject sent for message 13: Invalid MsgType, field=35
+20230307-04:36:44: Processing queued message: 14
+20230307-04:39:28: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:39:28: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:39:35: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:57600
+20230307-04:39:35: Acceptor heartbeat set to 30 seconds
+20230307-04:39:35: Refreshing message/state store on Logon
+20230307-04:39:35: Received logon
+20230307-04:39:35: Responding to Logon request
+20230307-04:39:35: MsgSeqNum too high, expecting 15 but received 17: 8=FIX.4.49=7035=A34=1749=CLIENT152=20230307-04:39:35.02956=SERVER198=0108=3010=048
+20230307-04:39:35: Enqueued at pos 17: 8=FIX.4.49=7035=A34=1749=CLIENT152=20230307-04:39:35.02956=SERVER198=0108=3010=048
+20230307-04:39:35: Sent ResendRequest FROM: 15 TO: infinity
+20230307-04:39:35: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1543=Y49=CLIENT152=20230307-04:39:35.06056=SERVER1122=20230307-04:39:17.17410=024
+20230307-04:39:35: Reject sent for message 15: Invalid MsgType, field=35
+20230307-04:39:35: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1643=Y49=CLIENT152=20230307-04:39:35.06056=SERVER1122=20230307-04:39:34.02310=017
+20230307-04:39:35: Reject sent for message 16: Invalid MsgType, field=35
+20230307-04:39:35: Processing queued message: 17
+20230307-04:42:01: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:42:01: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:42:43: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:57728
+20230307-04:42:43: Acceptor heartbeat set to 30 seconds
+20230307-04:42:43: Refreshing message/state store on Logon
+20230307-04:42:43: Received logon
+20230307-04:42:43: Responding to Logon request
+20230307-04:42:43: MsgSeqNum too high, expecting 18 but received 19: 8=FIX.4.49=7035=A34=1949=CLIENT152=20230307-04:42:43.05556=SERVER198=0108=3010=042
+20230307-04:42:43: Enqueued at pos 19: 8=FIX.4.49=7035=A34=1949=CLIENT152=20230307-04:42:43.05556=SERVER198=0108=3010=042
+20230307-04:42:43: Sent ResendRequest FROM: 18 TO: infinity
+20230307-04:42:43: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=1843=Y49=CLIENT152=20230307-04:42:43.08556=SERVER1122=20230307-04:42:42.04110=012
+20230307-04:42:43: Reject sent for message 18: Invalid MsgType, field=35
+20230307-04:42:43: Processing queued message: 19
+20230307-04:42:59: Disconnecting: Socket exception (/127.0.0.1:57728): java.net.SocketException: Connection reset
+20230307-04:58:22: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:58:22: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-04:58:50: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-04:58:50: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-05:02:12: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-05:02:12: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-05:07:51: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230307-05:07:51: Created session: FIX.4.4:SERVER1->CLIENT1
+20230307-05:26:08: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:57923
+20230307-05:26:08: Acceptor heartbeat set to 30 seconds
+20230307-05:26:08: Refreshing message/state store on Logon
+20230307-05:26:08: Received logon
+20230307-05:26:08: Responding to Logon request
+20230307-05:26:08: MsgSeqNum too high, expecting 20 but received 21: 8=FIX.4.49=7035=A34=2149=CLIENT152=20230307-05:26:08.14856=SERVER198=0108=3010=042
+20230307-05:26:08: Enqueued at pos 21: 8=FIX.4.49=7035=A34=2149=CLIENT152=20230307-05:26:08.14856=SERVER198=0108=3010=042
+20230307-05:26:08: Sent ResendRequest FROM: 20 TO: infinity
+20230307-05:26:08: Rejecting invalid message: quickfix.FieldException: Invalid MsgType, field=35: 8=FIX.4.49=9235=TEST34=2043=Y49=CLIENT152=20230307-05:26:08.20156=SERVER1122=20230307-04:43:05.11410=000
+20230307-05:26:08: Reject sent for message 20: Invalid MsgType, field=35
+20230307-05:26:08: Processing queued message: 21
+20230307-05:26:39: ResendRequest for messages FROM 20 TO 20 has been satisfied.
+20230307-05:26:51: Disconnecting: Socket exception (/127.0.0.1:57923): java.net.SocketException: Connection reset
+20230307-05:29:24: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:58027
+20230307-05:29:24: Acceptor heartbeat set to 30 seconds
+20230307-05:29:24: Refreshing message/state store on Logon
+20230307-05:29:24: Received logon
+20230307-05:29:24: Responding to Logon request
+20230307-05:30:40: Disconnecting: Socket exception (/127.0.0.1:58027): java.net.SocketException: Connection reset
+20230307-06:06:44: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:55279
+20230307-06:06:44: Acceptor heartbeat set to 30 seconds
+20230307-06:06:44: Refreshing message/state store on Logon
+20230307-06:06:45: Received logon
+20230307-06:06:45: Responding to Logon request
+20230307-06:07:28: Disconnecting: Socket exception (/127.0.0.1:55279): java.net.SocketException: Connection reset

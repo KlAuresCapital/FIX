@@ -1,11 +1,9 @@
 package Client;
 
-import Server.ServerApp2;
 import quickfix.*;
 import quickfix.field.*;
 import quickfix.fix44.Logon;
 
-import java.io.*;
 import java.util.logging.Logger;
 
 public class ClientApp3 implements Application {

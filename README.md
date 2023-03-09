@@ -72,4 +72,9 @@ This method is used to send whatever outgoing application level messages you wis
 
 
 
+## 3.1 How the Server works 
+
+The `Server` Application when ran, will open a server listening at the localhost at the port specified in the `configuration` file. Ending the program will not close the port, so you have to manually disable to port.
+
+Refer to this article on how to kill the port `https://linuxhint.com/kill-process-currently-using-port-localhost-windows/`
 

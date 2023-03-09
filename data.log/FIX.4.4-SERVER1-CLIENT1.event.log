@@ -124,3 +124,12 @@
 20230307-06:06:45: Received logon
 20230307-06:06:45: Responding to Logon request
 20230307-06:07:28: Disconnecting: Socket exception (/127.0.0.1:55279): java.net.SocketException: Connection reset
+20230308-16:19:31: Session FIX.4.4:SERVER1->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20230308-16:19:31: Session state is not current; resetting FIX.4.4:SERVER1->CLIENT1
+20230308-16:19:31: Created session: FIX.4.4:SERVER1->CLIENT1
+20230308-16:21:53: Accepting session FIX.4.4:SERVER1->CLIENT1 from /127.0.0.1:61324
+20230308-16:21:53: Acceptor heartbeat set to 30 seconds
+20230308-16:21:53: Refreshing message/state store on Logon
+20230308-16:21:53: Received logon
+20230308-16:21:53: Responding to Logon request
+20230308-16:59:14: Disconnecting: Socket exception (/127.0.0.1:61324): java.net.SocketException: Connection reset
